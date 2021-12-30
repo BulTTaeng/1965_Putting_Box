@@ -14,6 +14,7 @@ dynamic programming
 
 ## What was the key point and the hard part?
 
+![image](https://github.com/Choi-JaeHyeok-21500749/11054/blob/main/11054_explain.JPG)
 
 
 ## Where can I get more help, if I need it?
